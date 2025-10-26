@@ -57,4 +57,8 @@ Clean and non-blocking logic using `millis()`
 All functionality is implemented in the main `.ino` file which initializes the OLED, reads button input, and controls the LEDs and buzzer accordingly.  
 
 ---
+
+**Wokwi link:** https://wokwi.com/projects/445799819018017793
+
+
 SchreenShots are Added in pdf file in Task-B folder.  
