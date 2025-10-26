@@ -36,13 +36,15 @@ Mode	Description
 3	All ON – All LEDs stay continuously on without any blinking.
 4	PWM Fade – The LEDs gradually fade in and out, creating a smooth brightness transition effect.
 
-Wokwi link: https://wokwi.com/projects/445786334087512065
+**Use:**
+- **Button 1** : Switches to the next mode  
+- **Button 2** : Resets back to Mode 1
 
-**ScreenShots**
-ScreenShots are provided in pdf for Task-A
+**Wokwi link**: https://wokwi.com/projects/445786334087512065
+
+
+ScreenShots are provided in pdf for Task-A folder
 
 
 
-Use:
-- **Button 1** → Switches to the next mode  
-- **Button 2** → Resets back to Mode 1
+
